@@ -1,0 +1,5 @@
+{
+    // This shit is just to disable a warning
+    "rust-analyzer.cargo.target": "x86_64-unknown-none",
+    "rust-analyzer.checkOnSave.allTargets": false
+}
